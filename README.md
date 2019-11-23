@@ -1,4 +1,4 @@
-# Recipe App
+# Muse App
 
 ## Steps 
 1. clone to your computer
